@@ -1,6 +1,5 @@
-Hi
+<strong> Hi </strong>
 
-you can find the link for this project here.
-
+Here is the link to the project <em><strong>Rock_Paper_Scissor</strong></em>
 
 https://raviteja654321.github.io/Projects/Rock_Paper_Scissor/
