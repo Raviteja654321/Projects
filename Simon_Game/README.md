@@ -1,5 +1,5 @@
-<strong>Hi</srong>
+<strong> Hi </strong>
 
-This is the Link to the Project <em><strong>SIMON_GAME</srong></em>
+Here is the link to the project <em><strong>Simon_Game</strong></em>
 
 https://raviteja654321.github.io/Projects/Simon_Game/
