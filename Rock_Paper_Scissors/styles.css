@@ -9,6 +9,7 @@ button{
     font-size: larger;
     background: none;
     /* background-color: rgb(202, 198, 196); */
+    border-radius: 50px;
     animation: bouncy 3s 2 linear;
     position: relative;
 }
