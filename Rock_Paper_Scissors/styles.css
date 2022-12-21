@@ -1,4 +1,5 @@
 body{
+    text-align: center;
     background-image: url(mountain.webp);
     background-size: 100% 375%;
     
@@ -26,6 +27,3 @@ h2{
     font-size: xx-large;
 }
 
-.computer{
-    color: rgb(6, 32, 29);
-}
