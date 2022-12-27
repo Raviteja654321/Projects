@@ -3,7 +3,8 @@ Rock Paper Scissors
 
 Link for the website <strong> Rock Paper Scissors</strong>
 
-https://raviteja654321.github.io/Rock_Paper_Scissor/
+https://raviteja654321.github.io/Projects/Rock_Paper_Scissors/
+
 
 Instructionss and User Interface
 ---
